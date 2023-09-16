@@ -7,11 +7,26 @@
 # - one word per line
 # ------------------------------------------------------------------
 apptools
+barchart
+behaviour
+Deepak
 Enthought
+Ioannis
+ipyevents
+ipywidgets
+isenabled
+itkwidgets
 Mayavi
+mlab
 nbextension
+nbextensions
 Prabhu
 pyface
 Ramachandran
+Surti
 traitsui
+tvtk
+Tziakos
 Varoquaux
+widgetsnbextension
+wireframe
